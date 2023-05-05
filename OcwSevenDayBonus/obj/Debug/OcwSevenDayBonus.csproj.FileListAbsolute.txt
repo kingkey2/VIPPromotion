@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\OcwSevenDayBonus\OcwSevenDayBonus\bin\Debug\OcwSevenDayBonus.exe.config
+C:\Users\admin\source\repos\OcwSevenDayBonus\OcwSevenDayBonus\bin\Debug\OcwSevenDayBonus.exe
+C:\Users\admin\source\repos\OcwSevenDayBonus\OcwSevenDayBonus\bin\Debug\OcwSevenDayBonus.pdb
+C:\Users\admin\source\repos\OcwSevenDayBonus\OcwSevenDayBonus\obj\Debug\OcwSevenDayBonus.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\OcwSevenDayBonus\OcwSevenDayBonus\obj\Debug\OcwSevenDayBonus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OcwSevenDayBonus\OcwSevenDayBonus\obj\Debug\OcwSevenDayBonus.exe
+C:\Users\admin\source\repos\OcwSevenDayBonus\OcwSevenDayBonus\obj\Debug\OcwSevenDayBonus.pdb
+C:\Users\admin\source\repos\OCW_PH_VIPPromotion\OcwSevenDayBonus\bin\Debug\OcwPHVipPromotion.exe.config
+C:\Users\admin\source\repos\OCW_PH_VIPPromotion\OcwSevenDayBonus\bin\Debug\OcwPHVipPromotion.exe
+C:\Users\admin\source\repos\OCW_PH_VIPPromotion\OcwSevenDayBonus\bin\Debug\OcwPHVipPromotion.pdb
+C:\Users\admin\source\repos\OCW_PH_VIPPromotion\OcwSevenDayBonus\obj\Debug\OcwSevenDayBonus.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\OCW_PH_VIPPromotion\OcwSevenDayBonus\obj\Debug\OcwSevenDayBonus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OCW_PH_VIPPromotion\OcwSevenDayBonus\obj\Debug\OcwPHVipPromotion.exe
+C:\Users\admin\source\repos\OCW_PH_VIPPromotion\OcwSevenDayBonus\obj\Debug\OcwPHVipPromotion.pdb
